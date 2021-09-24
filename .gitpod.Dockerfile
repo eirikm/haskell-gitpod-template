@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-base
 
 # install haskell
 RUN sudo apt-get update && sudo apt-get install -y haskell-platform
