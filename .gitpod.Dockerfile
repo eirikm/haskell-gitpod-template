@@ -1,1 +1,1 @@
-FROM belseboob/gitpod-haskell
+FROM belseboob/gitpod-haskell:1.0
